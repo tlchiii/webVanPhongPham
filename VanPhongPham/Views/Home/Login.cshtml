@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<!-- Breadcrumb Start -->
+<div class="breadcrumb-wrap">
+    <div class="container-fluid">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="~/Home/Index">Home</a></li>
+            <li class="breadcrumb-item"><a href="~/Product/Products">Products</a></li>
+            <li class="breadcrumb-item active">Login</li>
+        </ul>
+    </div>
+</div>
+<!-- Breadcrumb End -->
+<!-- Login Start -->
+<div class="login">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <label>E-mail / Username</label>
+                <input class="form-control" type="text" placeholder="E-mail / Username">
+            </div>
+            <div class="col-md-6">
+                <label>Password</label>
+                <input class="form-control" type="password" placeholder="Password">
+            </div>
+            <div class="col-md-12">
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" class="custom-control-input" id="newaccount">
+                    <label class="custom-control-label" for="newaccount">Keep me signed in</label>
+                </div>
+            </div>
+            <div class="col text-center">
+                <button class="btn btn-primary mb-3">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Login End -->
