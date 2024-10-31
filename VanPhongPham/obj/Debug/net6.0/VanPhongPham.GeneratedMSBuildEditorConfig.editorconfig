@@ -9,67 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VanPhongPham
 build_property.RootNamespace = VanPhongPham
-build_property.ProjectDir = E:\Code\VanPhongPham\VanPhongPham\
+build_property.ProjectDir = E:\WEB_BTL\VanPhongPham\VanPhongPham\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Code\VanPhongPham\VanPhongPham
+build_property.MSBuildProjectDirectory = E:\WEB_BTL\VanPhongPham\VanPhongPham
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Home/Cart.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Home/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Home/CheckOut.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Home/CheckOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja091dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Home/Index.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Home/Privacy.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Product/ProductDetail.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Product/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Product/Products.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Product/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Shared/Error.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/Components/Category/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Shared/Footer.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Shared/TopNap.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/TopNap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRvcE5hcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Shared/_MainLayout.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/_MainLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/_ViewImports.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/_ViewStart.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Code/VanPhongPham/VanPhongPham/Views/Shared/_Layout.cshtml]
+[E:/WEB_BTL/VanPhongPham/VanPhongPham/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bjp820cogk

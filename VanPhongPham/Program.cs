@@ -1,7 +1,18 @@
+﻿using Microsoft.EntityFrameworkCore;
+using VanPhongPham.Models;
+using VanPhongPham.Service;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//đăng ký QLvenphongpham context
+string connectionString = builder.Configuration.GetConnectionString("QLVanPhongPhamContext");
+builder.Services.AddDbContext<QLVanPhongPhamContext>(options => options.UseSqlServer(connectionString));
+
+//them dich vu loai san pham
+builder.Services.AddScoped<ILoaiHang, LoaiSP>();
 
 var app = builder.Build();
 
