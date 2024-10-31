@@ -15,7 +15,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VanPhongPham")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6bf2a2372841f50b18790b44ad57be88d3dbc8")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12be93b7f58f9241611bbe63d37d2e00afeceaf1")]
+>>>>>>> dfd57e36ebce031eb5b715d7af5d0b6f67579bc2
 [assembly: System.Reflection.AssemblyProductAttribute("VanPhongPham")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VanPhongPham")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

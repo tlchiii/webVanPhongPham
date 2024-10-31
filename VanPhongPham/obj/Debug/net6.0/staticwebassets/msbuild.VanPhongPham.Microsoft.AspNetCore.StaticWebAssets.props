@@ -1280,12 +1280,20 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\boeke3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< HEAD
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi1.jpg.jpg))">
+=======
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butbi1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butbi1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1294,14 +1302,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butbi2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butbi2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1310,14 +1328,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butbi3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butbi3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1326,14 +1354,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butbi3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butchi1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butchi1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1342,14 +1380,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butchi2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butchi2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1358,14 +1406,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butchi3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butchi3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1374,7 +1432,11 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi3.jpg.jpg))</OriginalItemSpec>
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butchi3.jpg))</OriginalItemSpec>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butda1.jpg))">
       <SourceType>Package</SourceType>
@@ -1616,12 +1678,20 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmay3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< HEAD
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc1.jpg.jpg))">
+=======
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butmuc1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butmuc1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1630,14 +1700,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butmuc2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butmuc2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1646,14 +1726,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/butmuc3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/butmuc3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1662,7 +1752,11 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc3.jpg.jpg))</OriginalItemSpec>
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butmuc3.jpg))</OriginalItemSpec>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\butxoa1.jpg))">
       <SourceType>Package</SourceType>
@@ -1808,12 +1902,20 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\dapghim3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< HEAD
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang1.jpg.jpg))">
+=======
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/daquang1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/daquang1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1822,14 +1924,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/daquang2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/daquang2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1838,14 +1950,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/daquang3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/daquang3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -1854,7 +1976,11 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang3.jpg.jpg))</OriginalItemSpec>
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daquang3.jpg))</OriginalItemSpec>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\daydeothe1.jpg))">
       <SourceType>Package</SourceType>
@@ -2048,12 +2174,20 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giadetailieu3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+<<<<<<< HEAD
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-1.jpg.webp))">
+=======
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-1.webp))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A4-1.jpg.webp</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A4-1.webp</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2062,14 +2196,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-1.jpg.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-2.jpg.webp))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-1.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-2.webp))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A4-2.jpg.webp</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A4-2.webp</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2078,14 +2222,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-2.jpg.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-3.jpg.webp))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-2.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-3.webp))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A4-3.jpg.webp</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A4-3.webp</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2094,14 +2248,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-3.jpg.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-4.jpg.webp))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-3.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-4.webp))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A4-4.jpg.webp</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A4-4.webp</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2110,14 +2274,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-4.jpg.webp))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A4-4.webp))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A5-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A5-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2126,14 +2300,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A5-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A5-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2142,14 +2326,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-A5-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-A5-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2158,14 +2352,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-A5-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-biacung-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-biacung-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2174,14 +2378,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-biacung-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-biacung-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2190,14 +2404,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-biacung-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-biacung-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2206,14 +2430,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-biacung-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-carton-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-carton-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2222,14 +2456,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-carton-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-carton-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2238,14 +2482,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-carton-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-carton-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2254,14 +2508,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-carton-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-danhan-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-danhan-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2270,14 +2534,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-danhan-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-danhan-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2286,14 +2560,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-danhan-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-danhan-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2302,14 +2586,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-danhan-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-giaymau-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-giaymau-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2318,14 +2612,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-giaymau-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-giaymau-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2334,14 +2638,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-giaymau-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-giaymau-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2350,14 +2664,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-giaymau-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-note-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-note-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2366,14 +2690,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-note-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-note-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2382,14 +2716,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-note-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-note-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2398,14 +2742,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-note-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-photo-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-photo-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2414,14 +2768,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-photo-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-photo-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2430,14 +2794,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-photo-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-photo-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2446,14 +2820,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-photo-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-sotay-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-sotay-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2462,14 +2846,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-sotay-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-sotay-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2478,14 +2872,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-sotay-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-sotay-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2494,14 +2898,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-3.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-1.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-sotay-3.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-1.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-than-1.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-than-1.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2510,14 +2924,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-1.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-2.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-1.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-2.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-than-2.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-than-2.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2526,14 +2950,24 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-2.jpg.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-3.jpg.jpg))">
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-2.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-3.jpg))">
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <SourceType>Package</SourceType>
       <SourceId>VanPhongPham</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/VanPhongPham</BasePath>
+<<<<<<< HEAD
+      <RelativePath>Image/SanPham/giay-than-3.jpg.jpg</RelativePath>
+=======
       <RelativePath>Image/SanPham/giay-than-3.jpg</RelativePath>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -2542,7 +2976,11 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+<<<<<<< HEAD
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-3.jpg.jpg))</OriginalItemSpec>
+=======
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\giay-than-3.jpg))</OriginalItemSpec>
+>>>>>>> 1f6bf2a2372841f50b18790b44ad57be88d3dbc8
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Image\SanPham\hopdungbut1.jpg))">
       <SourceType>Package</SourceType>

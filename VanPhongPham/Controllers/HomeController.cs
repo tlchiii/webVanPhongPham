@@ -32,7 +32,13 @@ namespace VanPhongPham.Controllers
             return View();
         }
 
-        
+        public IActionResult ChiTietSanPham(string masp)
+        {
+            var sanpham = db.SanPhams.SingleOrDefault(x => x.MaSanPham == masp);
+            var images = db.HinhAnhSanPhams.Where(x => x.MaSanPham == masp).ToList();
+            ViewBag.images = images;
+            return View(masp);
+        }
         public IActionResult Privacy()
         {
             return View();
