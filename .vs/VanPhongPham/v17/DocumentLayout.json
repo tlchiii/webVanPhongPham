@@ -1,62 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|c:\\users\\administrator\\source\\repos\\webvanphongpham\\vanphongpham\\views\\shared\\topnap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\views\\shared\\topnap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|c:\\users\\administrator\\source\\repos\\webvanphongpham\\vanphongpham\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TopNap.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Views\\Shared\\TopNap.cshtml",
-              "RelativeDocumentMoniker": "VanPhongPham\\Views\\Shared\\TopNap.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Views\\Shared\\TopNap.cshtml",
-              "RelativeToolTip": "VanPhongPham\\Views\\Shared\\TopNap.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T02:34:30.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_MainLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Views\\Shared\\_MainLayout.cshtml",
-              "RelativeDocumentMoniker": "VanPhongPham\\Views\\Shared\\_MainLayout.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Views\\Shared\\_MainLayout.cshtml",
-              "RelativeToolTip": "VanPhongPham\\Views\\Shared\\_MainLayout.cshtml",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-31T02:33:13.702Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
