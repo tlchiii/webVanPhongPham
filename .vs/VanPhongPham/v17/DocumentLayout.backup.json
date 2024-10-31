@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|c:\\users\\administrator\\source\\repos\\webvanphongpham\\vanphongpham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|c:\\users\\administrator\\source\\repos\\webvanphongpham\\vanphongpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|c:\\users\\administrator\\source\\repos\\webvanphongpham\\vanphongpham\\models\\qlvanphongphamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\models\\qlvanphongphamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VanPhongPham\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VanPhongPham\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:33:43.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLVanPhongPhamContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Models\\QLVanPhongPhamContext.cs",
+              "RelativeDocumentMoniker": "VanPhongPham\\Models\\QLVanPhongPhamContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Models\\QLVanPhongPhamContext.cs",
+              "RelativeToolTip": "VanPhongPham\\Models\\QLVanPhongPhamContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:31:41.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,10 +66,14 @@
               "RelativeDocumentMoniker": "VanPhongPham\\Controllers\\AccessController.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\webVanPhongPham\\VanPhongPham\\Controllers\\AccessController.cs",
               "RelativeToolTip": "VanPhongPham\\Controllers\\AccessController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T03:20:25.651Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

@@ -7,6 +7,7 @@ namespace VanPhongPham.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        //QLVanPhongPhamContext dt = new QLVanPhongPhamContext();
 
         public HomeController(ILogger<HomeController> logger)
         {
