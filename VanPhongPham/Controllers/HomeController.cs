@@ -7,7 +7,7 @@ namespace VanPhongPham.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        //QLVanPhongPhamContext dt = new QLVanPhongPhamContext();
+        QLVanPhongPhamContext db = new QLVanPhongPhamContext();
 
         public HomeController(ILogger<HomeController> logger)
         {
@@ -16,7 +16,9 @@ namespace VanPhongPham.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var listSanPham = db.SanPhams.ToList();
+
+            return View(listSanPham);
         }
 
 

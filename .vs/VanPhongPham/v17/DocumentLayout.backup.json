@@ -3,44 +3,20 @@
   "WorkspaceRootPath": "E:\\WEB_BTL\\VanPhongPham\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\service\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\service\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\service\\iloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\service\\iloaihang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|e:\\web_btl\\vanphongpham\\vanphongpham\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADA73867-88F0-46B4-A86E-F5C2DA8782E0}|VanPhongPham\\VanPhongPham.csproj|solutionrelative:vanphongpham\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,14 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "VanPhongPham\\ScaffoldingReadMe.txt",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "VanPhongPham\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-31T02:49:43.529Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VanPhongPham\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VanPhongPham\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAAAKYBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T05:28:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VanPhongPham\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VanPhongPham\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:26:00.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "VanPhongPham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "VanPhongPham\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T04:02:39.159Z",
               "EditorCaption": ""
             },
             {
@@ -73,114 +75,9 @@
               "RelativeDocumentMoniker": "VanPhongPham\\Views\\Product\\Products.cshtml",
               "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Product\\Products.cshtml",
               "RelativeToolTip": "VanPhongPham\\Views\\Product\\Products.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAIBJwB4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T17:33:49.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "VanPhongPham\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "VanPhongPham\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:07:30.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoaiSP.cs",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Service\\LoaiSP.cs",
-              "RelativeDocumentMoniker": "VanPhongPham\\Service\\LoaiSP.cs",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Service\\LoaiSP.cs",
-              "RelativeToolTip": "VanPhongPham\\Service\\LoaiSP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:02:26.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ILoaiHang.cs",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Service\\ILoaiHang.cs",
-              "RelativeDocumentMoniker": "VanPhongPham\\Service\\ILoaiHang.cs",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Service\\ILoaiHang.cs",
-              "RelativeToolTip": "VanPhongPham\\Service\\ILoaiHang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:02:23.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "VanPhongPham\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "VanPhongPham\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T15:53:14.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Shared\\Components\\Category\\Default.cshtml",
-              "RelativeDocumentMoniker": "VanPhongPham\\Views\\Shared\\Components\\Category\\Default.cshtml",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Views\\Shared\\Components\\Category\\Default.cshtml",
-              "RelativeToolTip": "VanPhongPham\\Views\\Shared\\Components\\Category\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T15:51:35.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryViewComponent.cs",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\ViewComponents\\CategoryViewComponent.cs",
-              "RelativeDocumentMoniker": "VanPhongPham\\ViewComponents\\CategoryViewComponent.cs",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\ViewComponents\\CategoryViewComponent.cs",
-              "RelativeToolTip": "VanPhongPham\\ViewComponents\\CategoryViewComponent.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T15:19:33.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Program.cs",
-              "RelativeDocumentMoniker": "VanPhongPham\\Program.cs",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Program.cs",
-              "RelativeToolTip": "VanPhongPham\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T14:54:45.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "VanPhongPham\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\WEB_BTL\\VanPhongPham\\VanPhongPham\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "VanPhongPham\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:51:05.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T17:33:49.177Z"
             }
           ]
         }
